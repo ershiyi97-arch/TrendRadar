@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T22:44:27.051541+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2025-12-22T23:42:26.105353+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -45,6 +45,17 @@
           "time_info": "[12时14分 ~ 19时32分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时52分 ~ 23时42分]"
+        },
+        {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
           "url": "https://wallstreetcn.com/articles/3761799",
           "source": "华尔街见闻",
@@ -60,17 +71,6 @@
           "time_info": "[00时31分 ~ 18时48分]"
         },
         {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时52分 ~ 22时44分]"
-        },
-        {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
           "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
           "source": "澎湃新闻",
@@ -84,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时47分 ~ 22时44分]"
+          "appearance_count": 13,
+          "time_info": "[13时47分 ~ 23时42分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -219,8 +219,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时52分 ~ 22时44分]"
+          "appearance_count": 7,
+          "time_info": "[17时52分 ~ 23时42分]"
         },
         {
           "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
@@ -320,6 +320,17 @@
           "time_info": "[19时32分 ~ 22时44分]"
         },
         {
+          "title": "白宫官员：美国总统特朗普和美国国防部长赫格塞思将于周一就造船业发表声明。",
+          "url": "https://flash.jin10.com/detail/20251222225324934800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
           "url": "https://wallstreetcn.com/livenews/3024905",
           "source": "华尔街见闻-快讯",
@@ -329,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "欧美风电概念股普遍下挫，特朗普政府接口国家安全对五家公司暂停海上风电场租赁",
+          "url": "https://wallstreetcn.com/livenews/3025027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "研究显示：特朗普关税政策重创德国汽车出口",
@@ -345,7 +367,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -411,30 +433,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 22时44分]"
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 23时42分]"
+        },
+        {
+          "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3025047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
           "url": "https://wallstreetcn.com/livenews/3025024",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
-          "url": "https://wallstreetcn.com/livenews/3025022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时42分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -447,6 +470,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 08时40分]"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3025022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时42分]"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -467,7 +502,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -481,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251222223624364800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-22）",
@@ -565,6 +611,17 @@
           "time_info": "[07时25分 ~ 08时40分]"
         },
         {
+          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
+          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 23时42分]"
+        },
+        {
           "title": "伊朗要下场帮委内瑞拉了吗",
           "url": "https://www.toutiao.com/trending/7586586005637959214/",
           "source": "今日头条",
@@ -576,17 +633,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时52分 ~ 19时32分]"
-        },
-        {
-          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
-          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 22时44分]"
         },
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
@@ -626,7 +672,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价又涨了",
@@ -651,6 +697,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "金价飙涨 有新人快被“三金”愁哭了",
+          "url": "https://www.toutiao.com/trending/7586259723437064246/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "在金价首次突破4400美元/盎司后，美国上市黄金矿业股盘前上涨。Sibanye Stillwater股价上涨3.5%，AngloGold Ashanti上涨4.2%，纽蒙特矿业上涨2.5%。金罗斯黄金上涨2.8%，Gold Fields上涨3.8%，Agnico Eagle上涨2.1%，巴里克黄金上涨2.5%。",
@@ -776,6 +833,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时43分 ~ 17时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY日内下跌0.50%，现报98.24。英镑兑美元GBP/USD涨至1.3457，创10月17日以来新高。",
+          "url": "https://flash.jin10.com/detail/20251222223718248800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     }
