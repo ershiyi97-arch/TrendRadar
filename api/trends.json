@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T15:01:58.882427+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2025-12-22T15:44:12.666857+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时44分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -57,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时36分 ~ 15时01分]"
+          "appearance_count": 14,
+          "time_info": "[02时36分 ~ 15时44分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -71,8 +71,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时36分 ~ 15时01分]"
+          "appearance_count": 14,
+          "time_info": "[02时36分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 15时44分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -132,17 +146,30 @@
           "time_info": "[00时32分 ~ 06时26分]"
         },
         {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "title": "特朗普表态：必须是“超级鸽派”！",
+          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
           "ranks": [
             6,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 15时44分]"
         },
         {
           "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
@@ -156,16 +183,17 @@
           "time_info": "08时40分"
         },
         {
-          "title": "特朗普表态：必须是“超级鸽派”！",
-          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
-          "source": "凤凰网",
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            5
+            20,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 15时44分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -206,40 +234,15 @@
           "time_info": "[05时24分 ~ 07时25分]"
         },
         {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时01分]"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 15时01分]"
-        },
-        {
           "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
           "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时44分]"
         },
         {
           "title": "研究显示：特朗普关税政策重创德国汽车出口",
@@ -248,7 +251,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
@@ -360,11 +363,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 15时44分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -383,11 +387,53 @@
           "url": "https://www.cls.cn/detail/2236150",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价又涨了",
+          "url": "https://www.douyin.com/hot/2342947",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 08时40分]"
+        },
+        {
+          "title": "现货黄金价格再创历史新高",
+          "url": "https://www.toutiao.com/trending/7586548209984474650/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）上海金午盘价为993.82元/克，较国际金价(998.15元/克)低4.33元/克",
+          "url": "https://flash.jin10.com/detail/20251222150851524800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时01分"
+          "time_info": "15时44分"
         }
       ]
     },
@@ -406,8 +452,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时44分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -475,21 +521,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价又涨了",
-          "url": "https://www.douyin.com/hot/2342947",
+          "title": "黄金白银价格创新高",
+          "url": "https://www.douyin.com/hot/2344085",
           "source": "抖音",
           "ranks": [
-            10,
-            9,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 08时40分]"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         }
       ]
     }
