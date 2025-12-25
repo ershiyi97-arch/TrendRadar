@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T22:47:54.593610+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2025-12-25T23:44:44.717828+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -31,6 +31,18 @@
           "time_info": "[16时55分 ~ 22时47分]"
         },
         {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时46分 ~ 23时44分]"
+        },
+        {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
           "url": "https://wallstreetcn.com/articles/3761983",
           "source": "华尔街见闻",
@@ -43,18 +55,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 13时50分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时46分 ~ 22时47分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -192,6 +192,17 @@
           "time_info": "18时51分"
         },
         {
+          "title": "评论员：特朗普级战舰就是活靶子",
+          "url": "https://www.toutiao.com/trending/7587729668317417014/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "俄罗斯外交部：我们希望美国总统特朗普的务实与理性有助于在国际法框架内找到解决方案。",
           "url": "https://flash.jin10.com/detail/20251225202508685800",
           "source": "金十数据",
@@ -251,8 +262,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时34分 ~ 22时47分]"
+          "appearance_count": 15,
+          "time_info": "[07时34分 ~ 23时44分]"
         },
         {
           "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
@@ -398,6 +409,73 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时46分 ~ 23时44分]"
+        },
+        {
+          "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
+          "url": "https://flash.jin10.com/detail/20251225150449280800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2239423",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时50分]"
+        },
+        {
+          "title": "金价狂飙 千元内几乎买不到金饰",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 13时02分]"
+        },
+        {
+          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3026784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 5,
       "titles": [
@@ -438,6 +516,18 @@
           "time_info": "[02时56分 ~ 07时34分]"
         },
         {
+          "title": "以色列国防军：今天早些时候，以色列国防军与辛贝特在黎巴嫩纳萨里耶地区击毙了“圣城旅”第840作战单位的关键分子哈辛·马哈茂德·马尔沙德·阿勒-乔哈利。过去数年，他一直参与推动在叙黎战区针对以色列国的恐怖行动。哈辛在伊朗革命卫队服役，参与了伊朗指挥的针对以色列国和安全部队的恐怖活动。",
+          "url": "https://flash.jin10.com/detail/20251225221002451800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时44分]"
+        },
+        {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
           "url": "https://flash.jin10.com/detail/20251225000525824800",
           "source": "金十数据",
@@ -448,73 +538,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时36分]"
-        },
-        {
-          "title": "以色列国防军：今天早些时候，以色列国防军与辛贝特在黎巴嫩纳萨里耶地区击毙了“圣城旅”第840作战单位的关键分子哈辛·马哈茂德·马尔沙德·阿勒-乔哈利。过去数年，他一直参与推动在叙黎战区针对以色列国的恐怖行动。哈辛在伊朗革命卫队服役，参与了伊朗指挥的针对以色列国和安全部队的恐怖活动。",
-          "url": "https://flash.jin10.com/detail/20251225221002451800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时46分 ~ 22时47分]"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
-          "url": "https://flash.jin10.com/detail/20251225150449280800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2239423",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时50分]"
-        },
-        {
-          "title": "金价狂飙 千元内几乎买不到金饰",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时02分]"
         }
       ]
     },
@@ -560,6 +583,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
+          "url": "https://wallstreetcn.com/articles/3762068",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -591,23 +642,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
-          "url": "https://wallstreetcn.com/livenews/3026375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -621,8 +655,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 22时47分]"
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 23时44分]"
         }
       ]
     }
