@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:34:52.806790+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-01-02T06:43:32.063935+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时43分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -27,11 +27,12 @@
             7,
             9,
             18,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时41分 ~ 06时43分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -41,11 +42,12 @@
             5,
             10,
             12,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时41分 ~ 06时43分]"
         },
         {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
@@ -53,11 +55,25 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时34分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时43分]"
+        },
+        {
+          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
+          "url": "https://flash.jin10.com/detail/20260102030004557800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时43分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -71,18 +87,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 02时56分]"
-        },
-        {
-          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
-          "url": "https://flash.jin10.com/detail/20260102030004557800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时34分]"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
@@ -110,8 +114,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时43分]"
         },
         {
           "title": "伊朗一警察局遭暴徒袭击 已致3死17伤",
@@ -120,11 +124,12 @@
           "ranks": [
             4,
             6,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 06时43分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -166,8 +171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时43分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -179,8 +184,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时43分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -191,11 +196,12 @@
             17,
             15,
             22,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时43分]"
         }
       ]
     },
@@ -212,11 +218,12 @@
             14,
             19,
             21,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时43分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -260,8 +267,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时43分]"
         }
       ]
     }
