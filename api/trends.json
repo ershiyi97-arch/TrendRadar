@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T13:53:10.890618+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-01-01T15:01:33.691526+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时01分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -239,6 +239,19 @@
           "time_info": "[00时52分 ~ 07时34分]"
         },
         {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 15时01分]"
+        },
+        {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260101050538351800",
           "source": "金十数据",
@@ -249,18 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时42分]"
-        },
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 13时53分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -388,11 +389,12 @@
           "url": "https://wallstreetcn.com/articles/3762366",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时01分]"
         }
       ]
     },
