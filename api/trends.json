@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T22:55:49.029398+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-01-05T23:49:54.703697+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时36分 ~ 22时55分]"
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 23时49分]"
         },
         {
           "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
@@ -94,6 +94,31 @@
           "time_info": "[00时54分 ~ 07时36分]"
         },
         {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 23时49分]"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时02分 ~ 23时49分]"
+        },
+        {
           "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
           "url": "https://www.cls.cn/detail/2247373",
           "source": "财联社热门",
@@ -118,18 +143,6 @@
           "time_info": "[17时01分 ~ 19时37分]"
         },
         {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 22时55分]"
-        },
-        {
           "title": "美国国务卿卢比奥：石油对委内瑞拉的未来具有至关重要的意义。 （特朗普政府）在委内瑞拉（军事行动的）目标包括不再发生毒品输送，并切断与伊朗的联系。 （对于总统马杜罗）政府官员，我们已经虏获最高目标。 不在委内瑞拉陆地展开数日行动，是无法掳走更多人员的。 委内瑞拉并不存在美国的地面部队。 （对于占领委内瑞拉）总统特朗普保留这样的选项。 委内瑞拉实现民主过渡需要时间，不可能在几个小时内发生。 我将深度介入委内瑞拉的政权过渡。 将判断副总统Rodriguez的行动。 预计委内瑞拉将发生变化。 石油禁运是美国在委内瑞拉一个主要的杠杆。 需要再投资委内瑞拉石油，需要私人公司参与。 委内瑞拉的大多数机会在其国家之外。",
           "url": "https://wallstreetcn.com/livenews/3030342",
           "source": "华尔街见闻-快讯",
@@ -141,19 +154,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时36分]"
-        },
-        {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时02分 ~ 22时55分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
@@ -255,6 +255,20 @@
           "time_info": "[15时40分 ~ 19时37分]"
         },
         {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            9,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 23时49分]"
+        },
+        {
           "title": "美前检察官警告称特朗普还有三年任期",
           "url": "https://www.toutiao.com/trending/7591039861809954852/",
           "source": "今日头条",
@@ -326,19 +340,6 @@
           "time_info": "15时40分"
         },
         {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 22时55分]"
-        },
-        {
           "title": "格陵兰岛总理回应特朗普：格陵兰永远是我们的领土",
           "url": "https://wallstreetcn.com/livenews/3030746",
           "source": "华尔街见闻-快讯",
@@ -371,6 +372,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时40分 ~ 17时02分]"
+        },
+        {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 23时49分]"
+        },
+        {
+          "title": "特朗普对印度买俄石油发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7591650384435888171/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "欧盟发言人：欧盟注意到特朗普关于格陵兰岛的言论。 仍与格陵兰和丹麦站在一起。",
@@ -408,17 +432,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时42分]"
-        },
-        {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 22时55分]"
         },
         {
           "title": "丹麦首相弗雷泽里克森：美国总统特朗普必须停止其关于格陵兰岛的威胁。",
@@ -523,6 +536,31 @@
           "time_info": "[12时36分 ~ 14时02分]"
         },
         {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 23时49分]"
+        },
+        {
+          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
+          "url": "https://www.cls.cn/detail/2248057",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 23时49分]"
+        },
+        {
           "title": "好莱坞明星入籍法国，特朗普发帖讽刺，本人回击",
           "url": "https://news.ifeng.com/c/8peoOMfJqxB",
           "source": "凤凰网",
@@ -581,6 +619,18 @@
           "time_info": "[07时35分 ~ 07时36分]"
         },
         {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时49分]"
+        },
+        {
           "title": "美国总统特朗普在《大西洋》月刊采访中表示，委内瑞拉副总统德尔茜·罗德里格斯“若不行正道”将付出比马杜罗更惨痛代价。",
           "url": "https://flash.jin10.com/detail/20260105012834419800",
           "source": "金十数据",
@@ -591,18 +641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时30分]"
-        },
-        {
-          "title": "特朗普向多个国家发出威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 22时55分]"
         },
         {
           "title": "特朗普再度警告委政府：若不配合，或进行第二次军事打击！",
@@ -617,15 +655,16 @@
           "time_info": "[19时37分 ~ 21时54分]"
         },
         {
-          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
-          "url": "https://www.cls.cn/detail/2248057",
-          "source": "财联社热门",
+          "title": "特朗普一天之内威胁多国",
+          "url": "https://www.toutiao.com/trending/7591841454150913599/",
+          "source": "今日头条",
           "ranks": [
-            12
+            26,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时54分 ~ 22时55分]"
+          "time_info": "[22时55分 ~ 23时49分]"
         },
         {
           "title": "特朗普政府要求美国石油公司投资委内瑞拉",
@@ -668,9 +707,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我对伊朗的立场与特朗普一致，我们绝不允许伊朗进行铀浓缩活动。",
+          "url": "https://flash.jin10.com/detail/20260105231851320800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "墨西哥总统辛鲍姆：暂时不打算与美国总统特朗普通话。",
@@ -679,9 +729,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
+        },
+        {
+          "title": "丹麦首相：我认为美国总统特朗普确实有意接管格陵兰岛；但丹麦与格陵兰岛均已明确表示拒绝。",
+          "url": "https://flash.jin10.com/detail/20260105231438346800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "特朗普炮轰佩特罗为“病态毒枭” 哥伦比亚资产大跌",
@@ -690,18 +751,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -734,7 +784,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -794,15 +844,15 @@
           "time_info": "18时54分"
         },
         {
-          "title": "特朗普一天之内威胁多国",
-          "url": "https://www.toutiao.com/trending/7591841454150913599/",
-          "source": "今日头条",
+          "title": "委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）在马斯克旗下社交媒体平台X（原名推特）上感谢美国总统特朗普。 称委国将成为美国在安全与能源方面的盟友。",
+          "url": "https://wallstreetcn.com/livenews/3030956",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时55分"
+          "time_info": "23时49分"
         },
         {
           "title": "哥伦比亚总统：特朗普请停止诽谤",
@@ -852,8 +902,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3030982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
         {
           "title": "美股三大股指期货周一小幅高开。",
           "url": "https://flash.jin10.com/detail/20260105070122345800",
@@ -872,7 +944,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -888,13 +960,25 @@
           "time_info": "21时54分"
         },
         {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时49分]"
+        },
+        {
           "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -908,17 +992,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
         },
         {
           "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
@@ -938,7 +1011,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -949,7 +1022,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -971,15 +1044,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
+        },
+        {
+          "title": "美股无视委国变局领跑首周 市场静待非农就业数据",
+          "url": "https://flash.jin10.com/detail/20260105230128432800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
@@ -1025,6 +1109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时54分 ~ 19时37分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
+          "url": "https://flash.jin10.com/detail/20260105232040593800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐呼吁通过各领域持续合作，加强和扩大与阿塞拜疆共和国的全面关系。",
