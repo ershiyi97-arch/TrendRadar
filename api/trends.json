@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T04:50:25.128651+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-08T05:39:52.476599+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,19 +15,65 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时39分]"
         },
         {
-          "title": "特朗普质疑北约在美国需要时会否给予支持",
-          "url": "https://flash.jin10.com/detail/20260108034118954800",
+          "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3032708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "美国众议院议长约翰逊证实，美国总统特朗普将于2月24日发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260108050826101800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "05时39分"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时39分]"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时39分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时39分]"
         },
         {
           "title": "特朗普质疑北约在美国需要时会否给予支持",
@@ -56,38 +102,16 @@
           "time_info": "[03时01分 ~ 04时50分]"
         },
         {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://flash.jin10.com/detail/20260108034118954800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            9
+            5,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时50分]"
-        },
-        {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时50分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时50分]"
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时39分]"
         },
         {
           "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
@@ -144,7 +168,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -155,9 +179,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美国总统特朗普：雷神公司是对国防部需求反应最为迟钝的，其产能提升速度最慢，且最热衷于向股东派息，而非满足美国军方的需求和要求。",
+          "url": "https://flash.jin10.com/detail/20260108050520436800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "据Punchbowl：美国总统特朗普将于2月24日发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260108050259724800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "美国总统特朗普料将在下周宣布所谓的“加沙和平委员会”。（Axios）",
@@ -166,9 +212,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美国总统特朗普：Raytheon对“战争部”的回应最不负责任，该公司必须停止回购股票。 威胁要在投资问题上砍掉（政府/五角大楼）与该公司的联系。",
+          "url": "https://wallstreetcn.com/livenews/3032696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
@@ -177,7 +234,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -188,9 +245,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美国总统特朗普将于2月24日发表国情咨文演讲。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3032693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普政府的新饮食指南将确保联邦资金支持真正的食物，以改善公共健康并在整个生命周期中为美国人节省费用。",
@@ -232,7 +300,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -298,19 +366,6 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "伊朗谴责以色列外长进入索马里兰",
-          "url": "https://flash.jin10.com/detail/20260108024648911800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时50分]"
-        },
-        {
           "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
           "url": "https://news.ifeng.com/c/8pj8bQ0XmqB",
           "source": "凤凰网",
@@ -318,8 +373,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时39分]"
         },
         {
           "title": "伊朗",
@@ -331,8 +386,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时39分]"
         },
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -342,8 +397,21 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时39分]"
+        },
+        {
+          "title": "伊朗谴责以色列外长进入索马里兰",
+          "url": "https://flash.jin10.com/detail/20260108024648911800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时50分]"
         },
         {
           "title": "美国司法部长邦迪：今天，美国对“贝拉1号”（BELLA 1）油轮执行了扣押令。该油轮负责从委内瑞拉和伊朗运输受制裁的石油。",
@@ -374,11 +442,151 @@
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E7%9B%AE%E5%89%8D%E4%B8%8D%E5%85%B7%E5%A4%87%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9D%A1%E4%BB%B6",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260108050614770800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260108050612314800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "雷神科技(RTX.N)美股盘后一度跌超3%，特朗普抨击该公司乐于分红。",
+          "url": "https://flash.jin10.com/detail/20260108050553680800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "公用事业ETF收跌超2.4%，领跌美股行业ETF，生科ETF涨3.2%",
+          "url": "https://wallstreetcn.com/livenews/3032698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "美股收盘：道指跌近1% 英特尔涨超6%",
+          "url": "https://flash.jin10.com/detail/20260108050115354800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
+          "url": "https://wallstreetcn.com/livenews/3032705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
+          "url": "https://wallstreetcn.com/livenews/3032700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时50分]"
+        },
+        {
+          "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "10年期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3032682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         }
       ]
     },
@@ -434,43 +642,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时50分]"
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     }
