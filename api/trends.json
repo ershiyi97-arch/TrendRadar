@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T18:55:22.144300+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-01-14T19:41:01.418445+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 99,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -42,6 +42,17 @@
           "time_info": "[01时02分 ~ 07时32分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时01分 ~ 19时41分]"
+        },
+        {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
           "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
@@ -50,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时14分 ~ 18时55分]"
+          "appearance_count": 13,
+          "time_info": "[12时14分 ~ 19时41分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -67,6 +78,21 @@
           "time_info": "[12时14分 ~ 17时54分]"
         },
         {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5,
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时47分 ~ 19时41分]"
+        },
+        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
           "url": "https://wallstreetcn.com/articles/3763124",
           "source": "华尔街见闻",
@@ -77,17 +103,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 05时41分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 18时55分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -111,20 +126,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时14分 ~ 15时48分]"
-        },
-        {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 18时55分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -181,6 +182,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时01分 ~ 19时41分]"
         },
         {
           "title": "美国总统特朗普：我们将对委内瑞拉大有裨益，我是他们最大的粉丝。",
@@ -309,19 +323,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时34分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 18时55分]"
         },
         {
           "title": "白宫特使秘密会晤伊朗前王储 特朗普政府重新评估反对派力量",
@@ -539,6 +540,17 @@
           "time_info": "[02时59分 ~ 03时34分]"
         },
         {
+          "title": "刘和平：特朗普抛弃“台独”是算计",
+          "url": "https://www.toutiao.com/trending/7595056380969812031/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
           "title": "美国总统特朗普：（谈对伊朗的援助）经济上我们不会提供帮助。",
           "url": "https://flash.jin10.com/detail/20260114045823994800",
           "source": "金十数据",
@@ -548,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-14）",
+          "url": "https://flash.jin10.com/detail/20260114190924167800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "【特朗普称已取消所有与伊朗官员的会谈】1月13日，美国总统特朗普在社交媒体上发文说，他已经取消所有与伊朗官员的会谈。特朗普11日说，伊朗方面已与美国政府官员接触并提议进行谈判，“会议正在安排中”。同时，美国正在考虑应对伊朗局势的一系列措施，包括军事行动等“一些非常强硬的选项”。（央视）",
@@ -614,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "斯伦贝谢(SLB.N)有望从特朗普利用委内瑞拉石油的计划中获益。",
+          "url": "https://flash.jin10.com/detail/20260114190234512800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "美国总统特朗普：摩根大通CEO戴蒙就调查美联储主席鲍威尔一事谴责司法部，那样做“是错误的”。",
@@ -1103,7 +1137,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1171,6 +1205,18 @@
           "time_info": "[01时02分 ~ 07时32分]"
         },
         {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 19时41分]"
+        },
+        {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
           "url": "https://www.toutiao.com/trending/7594742775778643502/",
           "source": "今日头条",
@@ -1194,18 +1240,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时01分 ~ 17时54分]"
-        },
-        {
-          "title": "沙特带头，劝美国不要对伊朗动武",
-          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时55分]"
         },
         {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
@@ -1267,6 +1301,17 @@
           "time_info": "17时01分"
         },
         {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://flash.jin10.com/detail/20260114191657758800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "伊朗高级官员：伊朗已警告该地区国家，如果遭到美国的攻击，伊朗将打击该地区的美国基地。",
           "url": "https://flash.jin10.com/detail/20260114163902002800",
           "source": "金十数据",
@@ -1276,6 +1321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        },
+        {
+          "title": "伊朗过去14个月石油出口实现“创纪录增长”",
+          "url": "https://flash.jin10.com/detail/20260114191311201800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
@@ -1295,7 +1351,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1345,6 +1401,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时51分 ~ 15时48分]"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.douyin.com/hot/2367771",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
@@ -1422,7 +1500,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1433,9 +1511,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行 伊朗寻求外交支持",
+          "url": "https://wallstreetcn.com/livenews/3036991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "印度驻德黑兰大使馆呼吁在伊朗的印度公民尽快离开。",
@@ -1444,7 +1533,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1526,6 +1615,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "伊朗过去14个月石油出口实现“创纪录增长”",
+          "url": "https://wallstreetcn.com/livenews/3036980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "卡塔尔首相与伊朗官员通电话 讨论伊朗局势",
           "url": "https://flash.jin10.com/detail/20260114044130008800",
           "source": "金十数据",
@@ -1548,6 +1648,17 @@
           "time_info": "15时48分"
         },
         {
+          "title": "伊朗军方：近期系列恐袭是敌方精心策划的颠覆活动",
+          "url": "https://wallstreetcn.com/livenews/3036974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "美国国务院：美国公民应立即离开伊朗，如安全可行，可考虑经陆路前往土耳其或亚美尼亚。",
           "url": "https://flash.jin10.com/detail/20260114055223204800",
           "source": "金十数据",
@@ -1559,13 +1670,35 @@
           "time_info": "06时48分"
         },
         {
+          "title": "伊朗骚乱与美伊对峙推高油价 布伦特原油价格或冲击70美元",
+          "url": "https://flash.jin10.com/detail/20260114185515462800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：任何第三方都无法改变我们与伊朗的关系。",
+          "url": "https://flash.jin10.com/detail/20260114185003110800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "伊拉克国家安全顾问与伊朗最高领袖顾问通话，讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3036911",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1605,8 +1738,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时14分 ~ 18时55分]"
+          "appearance_count": 13,
+          "time_info": "[12时14分 ~ 19时41分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1790,6 +1923,20 @@
           "time_info": "[01时02分 ~ 15时48分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时47分 ~ 19时41分]"
+        },
+        {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
@@ -1801,19 +1948,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时59分 ~ 05时41分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 18时55分]"
         },
         {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
