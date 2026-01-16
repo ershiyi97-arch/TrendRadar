@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:53:44.727574+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-01-16T23:47:04.248658+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 92,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时01分 ~ 22时53分]"
+          "appearance_count": 11,
+          "time_info": "[15时01分 ~ 23时47分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -90,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时56分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[11时56分 ~ 23时47分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -116,8 +116,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 22时53分]"
+          "appearance_count": 10,
+          "time_info": "[15时45分 ~ 23时47分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -131,6 +131,21 @@
           "time_info": "[00时00分 ~ 04时50分]"
         },
         {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时50分 ~ 23时47分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普期望信用卡公司降低成本。",
           "url": "https://flash.jin10.com/detail/20260116023837254800",
           "source": "金十数据",
@@ -142,6 +157,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "特朗普希望哈塞特留在原岗位 现货金银短线跳水",
+          "url": "https://flash.jin10.com/detail/20260116233718516800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "特朗普盟友声称冰岛将成为“第52州”，冰岛要求美方作出解释",
           "url": "https://wallstreetcn.com/livenews/3038113",
           "source": "华尔街见闻-快讯",
@@ -151,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "美国总统特朗普：可能会因为格陵兰问题而对其他国家加征关税。",
+          "url": "https://wallstreetcn.com/livenews/3038916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -186,6 +223,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "美国总统特朗普赞赏礼来制药。",
+          "url": "https://wallstreetcn.com/livenews/3038915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "白宫披露显示特朗普持有多家受其政策影响的企业债券",
           "url": "https://flash.jin10.com/detail/20260116065856056800",
           "source": "金十数据",
@@ -195,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "美国总统特朗普称赞礼来公司。",
+          "url": "https://flash.jin10.com/detail/20260116233428429800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美国军方正向中东地区增派防御和进攻能力，以应对特朗普可能下令打击伊朗的情况。",
@@ -219,18 +278,30 @@
           "time_info": "07时39分"
         },
         {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            18,
-            15,
-            12
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时50分 ~ 22时53分]"
+          "time_info": "[19时36分 ~ 23时47分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 23时47分]"
         },
         {
           "title": "美国总统特朗普赞赏偏低的（国际石）油价和汽油价格。",
@@ -303,31 +374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 22时53分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 22时53分]"
         },
         {
           "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
@@ -548,9 +594,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
+        },
+        {
+          "title": "美国两年期国债收益率上涨，此前特朗普称希望哈塞特留在国家经济委员会（NEC）。",
+          "url": "https://wallstreetcn.com/livenews/3038909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "市场消息：委内瑞拉代总统罗德里格斯参与了与特朗普特使理查德·格雷内尔和其他官员的谈判，试图达成一项让马杜罗放弃权力的协议。",
@@ -586,6 +643,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "美国总统特朗普表示希望哈塞特留在全美经济顾问委员会（NEC）后，美国两年期国债收益率上升。",
+          "url": "https://flash.jin10.com/detail/20260116232949532800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "由于特朗普政府将签署协议以抑制电价，一些电力公司股价在盘前下跌，Talen Energy下跌6.8%，Vistra下跌3.2%，Constellation Energy下跌2.6%。",
           "url": "https://wallstreetcn.com/livenews/3038829",
           "source": "华尔街见闻-快讯",
@@ -595,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "现货黄金跌破4580美元/盎司，日内跌0.78%。特朗普谈及美联储主席职位时表示，想让哈塞特留在全美经济顾问委员会（NEC）。",
+          "url": "https://flash.jin10.com/detail/20260116232912500800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "房贷利率跌至三年新低 特朗普2000亿购债计划初见成效",
@@ -652,6 +731,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "特朗普：想让白宫顾问哈塞特留任",
+          "url": "https://wallstreetcn.com/livenews/3038903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "美国驻联合国特使：特朗普已明确表示，为制止这场“屠杀”，所有选项都摆在桌面上。",
           "url": "https://flash.jin10.com/detail/20260116045158825800",
           "source": "金十数据",
@@ -674,6 +764,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美国总统特朗普：美联储官员不怎么说话，哈塞特很会说话。",
+          "url": "https://flash.jin10.com/detail/20260116232229556800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "特朗普关税突然熄火了？丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260116112201338800",
           "source": "金十数据",
@@ -685,15 +786,37 @@
           "time_info": "11时56分"
         },
         {
+          "title": "特朗普：（谈哈塞特和美联储）美国白宫国家经济委员会主任哈塞特在电视上表现不错，想让他继续留任原职位。我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260116232147401800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "报道：特朗普下周将借达沃斯场合公布利用401(k)支付购房首付的计划",
           "url": "https://wallstreetcn.com/livenews/3038874",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
+        },
+        {
+          "title": "美国总统特朗普称赞美国白宫国家经济委员会主任哈塞特。",
+          "url": "https://flash.jin10.com/detail/20260116231902196800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
@@ -718,13 +841,24 @@
           "time_info": "03时07分"
         },
         {
+          "title": "马查多“献诺奖”，特朗普“笑纳”，颁奖方尴尬",
+          "url": "https://wallstreetcn.com/livenews/3038897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "美媒：特朗普称美国“甚至不该”举行中期选举，白宫回应",
           "url": "https://wallstreetcn.com/livenews/3038864",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -757,7 +891,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -930,7 +1064,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -972,8 +1106,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时52分 ~ 22时53分]"
+          "appearance_count": 22,
+          "time_info": "[01时52分 ~ 23时47分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -1078,11 +1212,12 @@
           "url": "https://news.ifeng.com/c/8py8L49uSQu",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 23时47分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁",
@@ -1122,6 +1257,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时00分 ~ 05时40分]"
+        },
+        {
+          "title": "普京与内塔尼亚胡就伊朗局势通电话",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时52分 ~ 23时47分]"
         },
         {
           "title": "俄罗斯总统普京向以色列总理内塔尼亚胡提到，俄罗斯愿意协助其调解伊朗问题。",
@@ -1212,18 +1360,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时56分 ~ 15时45分]"
-        },
-        {
-          "title": "普京与内塔尼亚胡就伊朗局势通电话",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 22时53分]"
         },
         {
           "title": "中方呼吁美方对伊朗放下武力执念",
@@ -1431,6 +1567,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "伊朗媒体：约3000人因骚乱被捕",
+          "url": "https://wallstreetcn.com/livenews/3038899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：伊朗已叫停800起处决行动。",
           "url": "https://flash.jin10.com/detail/20260116022649063800",
           "source": "金十数据",
@@ -1492,7 +1639,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1511,8 +1658,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时56分 ~ 23时47分]"
+        },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
           "url": "https://wallstreetcn.com/articles/3763270",
@@ -1524,18 +1683,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时00分 ~ 07时39分]"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时56分 ~ 22时53分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -1626,7 +1773,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1679,6 +1826,17 @@
           "time_info": "[06时45分 ~ 07时39分]"
         },
         {
+          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2260838",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
           "title": "美股集体高开 半导体板块领涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
           "source": "百度热搜",
@@ -1729,7 +1887,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1773,7 +1931,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1784,7 +1942,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1826,11 +1984,12 @@
           "ranks": [
             9,
             7,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时02分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[13时02分 ~ 23时47分]"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
@@ -1931,6 +2090,68 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
+          "url": "https://wallstreetcn.com/livenews/3038199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时40分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
+          "url": "https://wallstreetcn.com/livenews/3038139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美元指数DXY短线上扬近10点。",
+          "url": "https://flash.jin10.com/detail/20260116232304285800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "美元指数15日上涨",
+          "url": "https://flash.jin10.com/detail/20260116044459205800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "标普500指数转跌，道指下跌逾百点、跌幅超0.2%，纳指大致持平。 美元/日元日内跌幅达0.5%，报157.84。",
+          "url": "https://wallstreetcn.com/livenews/3038894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1974,49 +2195,20 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美债",
       "match_count": 3,
       "titles": [
         {
-          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
-          "url": "https://wallstreetcn.com/livenews/3038199",
+          "title": "现货黄金日内跌幅达1.5%，报4546.43美元/盎司。 纽约银日内跌幅达6.0%，报86.81美元/盎司。 纽蒙特矿业跌2.3%。 标普跌0.18%，纳指跌0.2%，半导体指数涨幅收窄至0.8%。 两年期美债收益率涨幅扩大至2.6个基点，刷新日高至3.59%上方。 美元指数短线从99.20点下方反弹，重返99.33一线。 特朗普称，希望哈塞特继续担任白宫顾问。",
+          "url": "https://wallstreetcn.com/livenews/3038910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            23
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时40分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
-          "url": "https://wallstreetcn.com/livenews/3038139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "23时47分"
         },
-        {
-          "title": "美元指数15日上涨",
-          "url": "https://flash.jin10.com/detail/20260116044459205800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
         {
           "title": "中国11月减持美债 日本增持",
           "url": "https://flash.jin10.com/detail/20260116050328025800",
