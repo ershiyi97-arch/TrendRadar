@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T12:02:11.479528+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-01-21T12:46:31.868418+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 12时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时46分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 12时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时46分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -63,8 +63,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时41分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 12时46分]"
+        },
+        {
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
+          "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
+        },
+        {
+          "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
+          "url": "https://news.ifeng.com/c/8q4kJoceknE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
+        },
+        {
+          "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
+          "url": "https://news.ifeng.com/c/8q5VLcoKihU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -91,50 +135,6 @@
           "time_info": "[01时04分 ~ 07时42分]"
         },
         {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
-          "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
-        },
-        {
-          "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
-          "url": "https://news.ifeng.com/c/8q4kJoceknE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
-          "url": "https://news.ifeng.com/c/8q5VLcoKihU",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
-        },
-        {
           "title": "美国总统特朗普：我们已经安排了很多关于格陵兰岛的会议。",
           "url": "https://flash.jin10.com/detail/20260121041846560800",
           "source": "金十数据",
@@ -144,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "巴西总统：特朗普想用社交媒体“统治世界”",
-          "url": "https://wallstreetcn.com/livenews/3040936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "特朗普公开马克龙给他的私信",
@@ -220,7 +209,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -261,6 +250,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时40分]"
+        },
+        {
+          "title": "巴西总统：特朗普想用社交媒体“统治世界”",
+          "url": "https://wallstreetcn.com/livenews/3040936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时46分]"
         },
         {
           "title": "美国总统特朗普：（美国吞并）格陵兰的结果将让北约非常高兴。",
@@ -323,6 +324,17 @@
           "time_info": "[05时40分 ~ 06时42分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
+        },
+        {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
           "url": "https://www.zhihu.com/question/1996539214104322510",
           "source": "知乎",
@@ -334,6 +346,54 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 05时40分]"
+        },
+        {
+          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
+          "url": "https://www.cls.cn/detail/2264207",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
+        },
+        {
+          "title": "马克龙在达沃斯喊话特朗普",
+          "url": "https://www.douyin.com/hot/2374693",
+          "source": "抖音",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
+        },
+        {
+          "title": "特朗普晒马克龙私信",
+          "url": "https://www.douyin.com/hot/2374658",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -359,17 +419,6 @@
           "time_info": "[04时36分 ~ 05时40分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
-        },
-        {
           "title": "特朗普：不会前往巴黎参加七国集团峰会",
           "url": "https://wallstreetcn.com/livenews/3040683",
           "source": "华尔街见闻-快讯",
@@ -392,17 +441,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时42分]"
-        },
-        {
-          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
-          "url": "https://www.cls.cn/detail/2264207",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
         },
         {
           "title": "特朗普：联合国应继续存在 但“和平委员会”可能取而代之",
@@ -437,39 +475,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时41分 ~ 07时42分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
-        },
-        {
-          "title": "马克龙在达沃斯喊话特朗普",
-          "url": "https://www.douyin.com/hot/2374693",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普晒马克龙私信",
-          "url": "https://www.douyin.com/hot/2374658",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
         },
         {
           "title": "纽森怒批特朗普：他就是个破坏王",
@@ -527,6 +532,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "特朗普发插旗图有何目的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "美国总统特朗普：与英国和法国的领导人相处融洽。",
           "url": "https://flash.jin10.com/detail/20260121041223660800",
           "source": "金十数据",
@@ -544,7 +560,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -659,6 +675,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "特朗普：不去G7峰会，因为马克龙干不长了",
+          "url": "https://flash.jin10.com/detail/20260121114444643800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "美国总统特朗普：我对北约的贡献比任何人都多。",
           "url": "https://flash.jin10.com/detail/20260121035224040800",
           "source": "金十数据",
@@ -687,7 +714,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -780,6 +807,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "美国总统特朗普：我们认为我们知道加沙最后一具人质尸体在哪里。",
           "url": "https://flash.jin10.com/detail/20260121035003544800",
           "source": "金十数据",
@@ -830,7 +868,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1036,7 +1074,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -1070,8 +1108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时41分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 12时46分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -1082,8 +1120,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时41分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 12时46分]"
+        },
+        {
+          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
+          "url": "https://www.cls.cn/detail/2264320",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -1095,17 +1144,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 05时40分]"
-        },
-        {
-          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
-          "url": "https://www.cls.cn/detail/2264320",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
@@ -1180,6 +1218,17 @@
           "time_info": "[06时42分 ~ 07时42分]"
         },
         {
+          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
+          "url": "https://www.cls.cn/detail/2264507",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20260121050048735800",
           "source": "金十数据",
@@ -1233,6 +1282,18 @@
           "time_info": "[01时04分 ~ 07时42分]"
         },
         {
+          "title": "瑞银：金价上半年或冲击5000美元",
+          "url": "https://www.toutiao.com/trending/7597626980922330665/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
+        },
+        {
           "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
           "url": "https://www.zhihu.com/question/1996659800252118065",
           "source": "知乎",
@@ -1240,8 +1301,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
         },
         {
           "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
@@ -1251,19 +1312,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
-        },
-        {
-          "title": "瑞银：金价上半年或冲击5000美元",
-          "url": "https://www.toutiao.com/trending/7597626980922330665/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -1283,7 +1333,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1297,6 +1347,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3040928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时46分]"
+        },
+        {
+          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
+          "url": "https://wallstreetcn.com/livenews/3040648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
+          "url": "https://flash.jin10.com/detail/20260121113244610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "马斯克：不要让你的亲人使用 ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260121002446496800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "OpenAI公布数据中心能源成本控制计划",
+          "url": "https://flash.jin10.com/detail/20260121110335950800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3040591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     },
@@ -1316,8 +1439,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 12时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时46分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -1328,8 +1451,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 12时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时46分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -1341,8 +1464,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时41分 ~ 12时02分]"
+          "appearance_count": 7,
+          "time_info": "[06时41分 ~ 12时46分]"
         },
         {
           "title": "市场分析：投资者正在抛售美元、美债 转而买入黄金",
@@ -1351,7 +1474,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1373,70 +1496,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3040928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
-          "url": "https://wallstreetcn.com/livenews/3040648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "马斯克：不要让你的亲人使用 ChatGPT",
-          "url": "https://flash.jin10.com/detail/20260121002446496800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "OpenAI公布数据中心能源成本控制计划",
-          "url": "https://flash.jin10.com/detail/20260121110335950800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "12时02分"
-        },
-        {
-          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3040591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
         }
       ]
     },
@@ -1481,6 +1543,34 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印尼将拍卖一艘疑似伊朗籍油轮及17万吨原油",
+          "url": "https://flash.jin10.com/detail/20260121121000599800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "卡塔尔首相：对伊朗采取军事行动只会加剧地区不稳定",
+          "url": "https://wallstreetcn.com/livenews/3040638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1489,11 +1579,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 12时46分]"
         }
       ]
     },
@@ -1519,19 +1610,19 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "卡塔尔首相：对伊朗采取军事行动只会加剧地区不稳定",
-          "url": "https://wallstreetcn.com/livenews/3040638",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
+          "url": "https://flash.jin10.com/detail/20260121115138760800",
+          "source": "金十数据",
           "ranks": [
-            23
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "12时46分"
         }
       ]
     }
