@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T16:20:40.504822+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-01-21T17:25:12.990977+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 105,
+      "match_count": 109,
       "titles": [
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -49,11 +49,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时00分 ~ 17时25分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -80,6 +81,34 @@
           "time_info": "[01时04分 ~ 06时42分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时00分 ~ 17时25分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时00分 ~ 17时25分]"
+        },
+        {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
           "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
           "source": "凤凰网",
@@ -102,19 +131,6 @@
           "time_info": "[12时00分 ~ 13时23分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 16时20分]"
-        },
-        {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
           "url": "https://news.ifeng.com/c/8q4kJoceknE",
           "source": "凤凰网",
@@ -124,20 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时00分 ~ 12时46分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 16时20分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -151,6 +153,20 @@
           "time_info": "[01时04分 ~ 07时42分]"
         },
         {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普计划于4月访华？外交部回应",
           "url": "https://www.toutiao.com/trending/7596273635871031359/",
           "source": "今日头条",
@@ -162,6 +178,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 07时42分]"
+        },
+        {
+          "title": "特朗普回应不去G7峰会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%8E%BBG7%E5%B3%B0%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "美国总统特朗普：我们已经安排了很多关于格陵兰岛的会议。",
@@ -220,7 +269,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -305,19 +354,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 06时42分]"
-        },
-        {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 16时20分]"
         },
         {
           "title": "巴西总统：特朗普想用社交媒体“统治世界”",
@@ -470,6 +506,17 @@
           "time_info": "[01时04分 ~ 05时40分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普和马克龙吵翻",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%A9%AC%E5%85%8B%E9%BE%99%E5%90%B5%E7%BF%BB%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -560,6 +607,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时00分 ~ 12时02分]"
+        },
+        {
+          "title": "以色列罕见与特朗普公开叫板",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "美国总统特朗普：我对挪威的尊重已经大打折扣。",
@@ -799,7 +857,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -925,17 +983,6 @@
           "time_info": "05时40分"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
           "title": "美国总统特朗普：挪威掌控着诺贝尔奖的评选，这简直是个笑话。",
           "url": "https://flash.jin10.com/detail/20260121034918624800",
           "source": "金十数据",
@@ -1052,7 +1099,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -1085,7 +1132,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -1214,7 +1261,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1224,8 +1271,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时41分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[07时41分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -1286,17 +1333,6 @@
           "time_info": "[01时04分 ~ 05时40分]"
         },
         {
-          "title": "拼多多美股夜盘一度涨超9%。",
-          "url": "https://wallstreetcn.com/livenews/3041116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
           "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
           "url": "https://www.cls.cn/detail/2264507",
           "source": "财联社热门",
@@ -1309,6 +1345,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时46分 ~ 16时20分]"
+        },
+        {
+          "title": "拼多多美股夜盘一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3041116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时25分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
@@ -1383,6 +1431,17 @@
           "time_info": "[06时42分 ~ 07时42分]"
         },
         {
+          "title": "拼多多美股盘前涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3041149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20260121050048735800",
           "source": "金十数据",
@@ -1400,7 +1459,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -1487,11 +1546,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 17时25分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -1638,8 +1698,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时41分 ~ 16时20分]"
+          "appearance_count": 13,
+          "time_info": "[06时41分 ~ 17时25分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -1655,8 +1715,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 16时20分]"
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 17时25分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -1748,7 +1808,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "印尼将拍卖一艘疑似伊朗籍油轮及17万吨原油",
@@ -1761,6 +1821,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 13时23分]"
+        },
+        {
+          "title": "IEA月报：目前评估委内瑞拉和伊朗近期事态发展对供应的长期影响为时过早，因此基本维持原有预测不变。",
+          "url": "https://flash.jin10.com/detail/20260121170158440800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "卡塔尔首相：对伊朗采取军事行动只会加剧地区不稳定",
@@ -1788,11 +1859,12 @@
             6,
             7,
             8,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时00分 ~ 17时25分]"
         }
       ]
     },
