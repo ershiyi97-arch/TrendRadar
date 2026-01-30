@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T12:02:03.626303+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-01-30T13:11:43.614150+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 91,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -15,11 +15,12 @@
             13,
             14,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时11分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -31,6 +32,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时19分]"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时19分 ~ 13时11分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -55,6 +69,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
+          "url": "https://flash.jin10.com/detail/20260130130036264800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "【特朗普：计划同伊朗对话，“希望”不动用武力】美国总统特朗普29日表示，他计划与伊朗进行对话，并称“希望”不动用武力。他在美国首都华盛顿对记者说：“我们现在有很多非常庞大、威力强大的舰船正驶向伊朗。如果我们最终不必动用它们，那将是极好的。”（新华社）",
           "url": "https://wallstreetcn.com/livenews/3046830",
           "source": "华尔街见闻-快讯",
@@ -66,17 +91,27 @@
           "time_info": "09时09分"
         },
         {
-          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
-          "url": "https://wallstreetcn.com/articles/3764456",
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
           "source": "华尔街见闻",
           "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
             10,
-            9,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时11分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -169,6 +204,18 @@
           "time_info": "[01时31分 ~ 03时24分]"
         },
         {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 13时11分]"
+        },
+        {
           "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
           "url": "https://flash.jin10.com/detail/20260130035139767800",
           "source": "金十数据",
@@ -206,6 +253,17 @@
           "time_info": "[01时31分 ~ 03时24分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 13时11分]"
+        },
+        {
           "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
           "url": "https://flash.jin10.com/detail/20260130032628040800",
           "source": "金十数据",
@@ -218,16 +276,26 @@
           "time_info": "[04时22分 ~ 05时19分]"
         },
         {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
           "source": "凤凰网",
           "ranks": [
-            7,
-            8
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 13时11分]"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
+          "time_info": "[12时01分 ~ 13时11分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
@@ -269,17 +337,6 @@
           "time_info": "[02时32分 ~ 04时22分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
-        },
-        {
           "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
           "url": "https://flash.jin10.com/detail/20260130015749406800",
           "source": "金十数据",
@@ -319,17 +376,6 @@
           "time_info": "[02时32分 ~ 04时22分]"
         },
         {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
-        },
-        {
           "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
           "url": "https://wallstreetcn.com/livenews/3046634",
           "source": "华尔街见闻-快讯",
@@ -354,17 +400,6 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
           "url": "https://wallstreetcn.com/livenews/3046620",
           "source": "华尔街见闻-快讯",
@@ -375,6 +410,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时32分]"
+        },
+        {
+          "title": "特朗普听取多种打击伊朗方案",
+          "url": "https://wallstreetcn.com/livenews/3046958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时11分]"
         },
         {
           "title": "今晚官宣！特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -434,17 +481,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时19分]"
-        },
-        {
-          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
-          "url": "https://www.cls.cn/detail/2275048",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯似乎即将解除武装。",
@@ -566,17 +602,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "特朗普听取多种打击伊朗方案",
-          "url": "https://wallstreetcn.com/livenews/3046958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
           "title": "特朗普起诉自己的政府部门 索赔100亿美元",
           "url": "https://flash.jin10.com/detail/20260130083048645800",
           "source": "金十数据",
@@ -599,6 +624,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五上午11点（北京时间周六零点）签署行政命令。",
+          "url": "https://flash.jin10.com/detail/20260130123131643800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "美国总统特朗普：美国特使威特科夫带来了一些相当不错的消息。",
           "url": "https://flash.jin10.com/detail/20260130063254804800",
           "source": "金十数据",
@@ -610,13 +646,24 @@
           "time_info": "07时18分"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五下午2点（北京时间次日凌晨3点）参加一场政策会议。",
+          "url": "https://flash.jin10.com/detail/20260130123023173800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "美媒：特朗普“会面+通话”，敲定沃什为下一任美联储主席人选",
           "url": "https://flash.jin10.com/detail/20260130112120127800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -726,7 +773,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -979,7 +1026,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1046,19 +1093,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
-        },
-        {
-          "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
-          "url": "https://wallstreetcn.com/livenews/3046959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 13时11分]"
         },
         {
           "title": "普京表示正密切关注伊朗问题相关进展",
@@ -1095,8 +1131,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 13时11分]"
+        },
+        {
+          "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
+          "url": "https://wallstreetcn.com/livenews/3046959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时11分]"
         },
         {
           "title": "美国国防部长：（谈伊朗）他们拥有达成协议的所有选项，但我们将做好采取行动的准备。",
@@ -1262,8 +1310,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时11分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -1274,8 +1322,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时11分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -1339,8 +1387,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时11分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -1374,22 +1422,24 @@
           "source": "微博",
           "ranks": [
             6,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 13时11分]"
         },
         {
           "title": "黄金价格暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时11分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -1474,8 +1524,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 13时11分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -1486,8 +1536,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 13时11分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -1773,6 +1823,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2/10年期美债收益率至多跌超1.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3046679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "分析师：美联储新任主席人选几近确认 长期美债价格承压",
+          "url": "https://flash.jin10.com/detail/20260130121631769800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -1786,23 +1864,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2/10年期美债收益率至多跌超1.8个基点",
-          "url": "https://wallstreetcn.com/livenews/3046679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
         }
       ]
     }
