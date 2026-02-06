@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T13:46:19.453210+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-02-06T14:41:55.738940+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 14时41分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -61,6 +61,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
         },
         {
           "title": "美国白宫：（就伊朗问题）特朗普除了外交手段外还有许多其他选择。",
@@ -134,18 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时21分]"
-        },
-        {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时46分]"
         },
         {
           "title": "美国白宫：（就古巴问题）特朗普始终乐于开展外交活动。",
@@ -355,6 +356,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普：与其延长 不如制定美俄核军控新条约",
+          "url": "https://wallstreetcn.com/livenews/3051154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "特朗普：完全支持欧尔班再次担任匈牙利总理",
           "url": "https://flash.jin10.com/detail/20260206021727047800",
           "source": "金十数据",
@@ -446,7 +458,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -468,9 +480,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "美国伊朗谈判今日举行",
+          "url": "https://www.douyin.com/hot/2391128",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
         },
         {
           "title": "美伊谈判前夕 白宫谋划伊朗现政权更迭预案",
@@ -484,16 +508,15 @@
           "time_info": "09时09分"
         },
         {
-          "title": "美国伊朗谈判今日举行",
-          "url": "https://www.douyin.com/hot/2391128",
-          "source": "抖音",
+          "title": "伊朗外长和阿曼外长举行双边会晤",
+          "url": "https://wallstreetcn.com/livenews/3051169",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            1
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -544,6 +567,29 @@
           "time_info": "[02时37分 ~ 03时33分]"
         },
         {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
+        },
+        {
+          "title": "伊朗展示先进弹道导弹",
+          "url": "https://www.toutiao.com/trending/7602741866300293126/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 14时41分]"
+        },
+        {
           "title": "伊朗外长率团赴阿曼，将与美国进行核问题谈判",
           "url": "https://wallstreetcn.com/livenews/3050845",
           "source": "华尔街见闻-快讯",
@@ -556,15 +602,16 @@
           "time_info": "[03时33分 ~ 04时24分]"
         },
         {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
+          "title": "伊朗军事战略转向主动威慑",
+          "url": "https://www.toutiao.com/trending/7603228774960037934/",
+          "source": "今日头条",
           "ranks": [
-            12
+            10,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时46分]"
+          "time_info": "[13时46分 ~ 14时41分]"
         },
         {
           "title": "伊朗",
@@ -601,17 +648,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时21分]"
-        },
-        {
-          "title": "伊朗展示先进弹道导弹",
-          "url": "https://www.toutiao.com/trending/7602741866300293126/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
         },
         {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
@@ -669,15 +705,15 @@
           "time_info": "00时39分"
         },
         {
-          "title": "伊朗军事战略转向主动威慑",
-          "url": "https://www.toutiao.com/trending/7603228774960037934/",
-          "source": "今日头条",
+          "title": "伊朗外长和阿曼外长举行双边会晤",
+          "url": "https://flash.jin10.com/detail/20260206143452608800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时46分"
+          "time_info": "14时41分"
         },
         {
           "title": "以总理称若遭伊朗攻击将对其“重击”",
@@ -691,6 +727,61 @@
           "time_info": "12时07分"
         },
         {
+          "title": "伊朗代表团前往美伊核谈判地点",
+          "url": "https://wallstreetcn.com/livenews/3051153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "伊朗代表团前往美伊核谈判地点",
+          "url": "https://flash.jin10.com/detail/20260206141532930800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "伊美谈判略有推迟 伊朗增补一名代表团成员",
+          "url": "https://wallstreetcn.com/livenews/3051152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+          "url": "https://wallstreetcn.com/livenews/3051148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "伊朗和美国的谈判略有推迟",
+          "url": "https://flash.jin10.com/detail/20260206140950095800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "伊朗军方：我们能够轻易进入美军基地",
           "url": "https://wallstreetcn.com/livenews/3051064",
           "source": "华尔街见闻-快讯",
@@ -700,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "报道：伊朗或以长期暂停核计划换取制裁解除",
+          "url": "https://flash.jin10.com/detail/20260206140636253800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "伊朗外长率核问题谈判代表团抵达阿曼首都",
@@ -785,8 +887,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 14时41分]"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -838,11 +940,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
         },
         {
           "title": "美股、金银、比特币、石油 全崩了",
@@ -1001,8 +1104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -1101,8 +1204,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
         }
       ]
     },
