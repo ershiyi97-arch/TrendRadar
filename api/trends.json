@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T18:27:00.271030+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-06-20T20:23:46.750445+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -29,11 +29,12 @@
           "ranks": [
             5,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 20时23分]"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
@@ -57,6 +58,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 11时52分]"
+        },
+        {
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时23分]"
         },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -112,17 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普：今年将再次访问中国",
-          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普：我的民调数据非常好。我能以25个百分点的优势击败他们推出的任何候选人。",
@@ -184,6 +185,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普：伊朗已被打垮 民主党是一帮“蠢货”",
+          "url": "https://flash.jin10.com/detail/20260620195852892800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -268,6 +280,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时23分]"
+        },
+        {
+          "title": "特朗普“剧透”，意大利怒了",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时23分]"
         },
         {
           "title": "美国总统特朗普：另一架旧空军一号已有约35年机龄，确实到了该更换的时候。",
@@ -445,28 +479,6 @@
           "time_info": "[18时26分 ~ 18时27分]"
         },
         {
-          "title": "特朗普坚称伊朗无条件投降了",
-          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普“剧透”，意大利怒了",
-          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
-        },
-        {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3122151",
           "source": "华尔街见闻-快讯",
@@ -501,6 +513,17 @@
           "time_info": "[11时51分 ~ 11时52分]"
         },
         {
+          "title": "特朗普再嘲意大利总理：跟美国唱反调后又想套近乎，没门！",
+          "url": "https://flash.jin10.com/detail/20260620195418928800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "特朗普：“我是老大”的言论只是在开玩笑 没想到传遍全世界",
           "url": "https://flash.jin10.com/detail/20260620024147988800",
           "source": "金十数据",
@@ -510,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
+          "url": "https://wallstreetcn.com/livenews/3122240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
@@ -600,6 +634,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
+          "url": "https://flash.jin10.com/detail/20260620190142057800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国白宫：特朗普总统做成了一件六个月前大多数专家认为不可能的事，我们已经取得了胜利。",
           "url": "https://flash.jin10.com/detail/20260620091217880800",
           "source": "金十数据",
@@ -609,12 +654,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-20）",
+          "url": "https://flash.jin10.com/detail/20260620184815728800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -626,8 +682,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 20时23分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -640,8 +696,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 20时23分]"
         },
         {
           "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
@@ -673,11 +729,12 @@
           "ranks": [
             7,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 20时23分]"
         },
         {
           "title": "伊朗革命卫队发表致最高领袖公开信",
@@ -710,8 +767,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时23分]"
         },
         {
           "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
@@ -769,7 +826,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -997,6 +1054,17 @@
           "time_info": "15时43分"
         },
         {
+          "title": "据沙特媒体哈达斯：伊朗革命卫队警告船只不要偏离南拉尔克岛的“指定航道”。",
+          "url": "https://flash.jin10.com/detail/20260620191907755800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "伊朗革命卫队：美以敌人在此次战争的第十五天就意识到局面已脱离其掌控。",
           "url": "https://flash.jin10.com/detail/20260620143143709800",
           "source": "金十数据",
@@ -1014,7 +1082,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1146,7 +1214,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1168,7 +1236,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1220,7 +1288,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
@@ -1277,11 +1345,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时23分]"
         },
         {
           "title": "金价银价双双下跌",
@@ -1293,12 +1362,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 03时25分]"
+        },
+        {
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -1311,8 +1391,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 20时23分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -1323,19 +1403,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 20时23分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时23分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -1348,6 +1429,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 03时25分]"
+        },
+        {
+          "title": "专家：中美股市科技板块差距大",
+          "url": "https://www.toutiao.com/trending/7653397957080780307/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -1406,7 +1498,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
@@ -1430,6 +1522,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
