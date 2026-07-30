@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T12:48:21.876052+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-07-30T20:24:14.308734+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时50分 ~ 12时48分]"
+          "appearance_count": 7,
+          "time_info": "[06时50分 ~ 20时24分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -194,6 +194,19 @@
           "time_info": "04时09分"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 20时24分]"
+        },
+        {
           "title": "美国总统特朗普：爱国者系统昨晚保护了美国基地。",
           "url": "https://flash.jin10.com/detail/20260730033837763800",
           "source": "金十数据",
@@ -251,16 +264,15 @@
           "time_info": "[06时50分 ~ 07时54分]"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时24分 ~ 12时48分]"
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -336,7 +348,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -498,8 +510,30 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
+          "url": "https://news.ifeng.com/c/8vBRvOidAuY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
+          "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
+          "url": "https://news.ifeng.com/c/8vBNVZCUP9m",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
         {
           "title": "约旦称防空系统拦截伊朗发射的5枚导弹",
           "url": "https://flash.jin10.com/detail/20260730124339403800",
@@ -507,7 +541,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -518,7 +552,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -602,6 +636,28 @@
           "time_info": "[02时57分 ~ 05时49分]"
         },
         {
+          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
+          "url": "https://www.toutiao.com/trending/7668276655902690879/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
           "source": "澎湃新闻",
@@ -652,7 +708,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -674,7 +730,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -712,13 +768,24 @@
           "time_info": "09时24分"
         },
         {
+          "title": "据阿拉伯半岛电视台援引伊朗胡齐斯坦省省长称，美军今日对阿瓦玆市的袭击造成两处学生住宅综合体受损。",
+          "url": "https://flash.jin10.com/detail/20260730193949915800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "据伊朗媒体报道，胡塞武装否认关于其拟在曼德海峡征收过境费的报道，称该组织在红海的行动仅限于禁止沙特的航运。",
           "url": "https://wallstreetcn.com/livenews/3142115",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -745,6 +812,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "据伊朗学生通讯社：伊拉克总司令部发言人否认了有关从伊拉克境内对沙特进行攻击的指控，称相关质控毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260730193718783800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "据伊朗媒体报道，伊朗布什尔地区传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260730090417978800",
           "source": "金十数据",
@@ -759,7 +837,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -809,6 +887,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 06时50分]"
+        },
+        {
+          "title": "美股存储板块盘前走强，美光科技(MU.O)涨3.6%，SK海力士(SKHY.O)涨3.3%，闪迪(SNDK.O)涨6%。",
+          "url": "https://flash.jin10.com/detail/20260730195238521800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美股三大股指期货集体走高，纳指期货日内涨约1.5%，明星科技股盘前普涨，SK海力士盘前涨近4%，美光科技盘前涨超4%，SpaceX盘前涨超3%，英伟达盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3142448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美股大跌 美光科技跌超10%",
@@ -877,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        },
+        {
+          "title": "美股存储板块盘前走强，美光科技、SK海力士涨超3%，闪迪涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3142442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "微软预计2026年（根据会计调整的）资本开支为1750亿美元，之前预计1900亿美元。 微软美股盘后涨幅扩大至8%。",
@@ -962,7 +1073,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -978,11 +1089,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时50分 ~ 12时48分]"
+          "appearance_count": 7,
+          "time_info": "[06时50分 ~ 20时24分]"
         },
         {
           "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",
@@ -1066,7 +1178,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -1077,8 +1189,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 20时24分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时24分 ~ 12时48分]"
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
@@ -1120,7 +1243,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -1198,7 +1321,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
