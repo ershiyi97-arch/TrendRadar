@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T15:33:11.388559+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-08-05T18:25:38.184213+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时25分]"
         },
         {
           "title": "美财长透露与伊朗达成协议时间",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时25分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -121,6 +121,17 @@
           "time_info": "[00时07分 ~ 06时04分]"
         },
         {
+          "title": "【伊朗称霍尔木兹海峡不会立即开放】据伊朗国家电视台今天（8月5日）援引知情人士消息，伊朗与阿曼就霍尔木兹海峡船舶通行安排可能达成的协议，并不意味着海峡将立即恢复开放。消息称，伊朗与阿曼的相关谈判仅涉及双方就船舶通行秩序进行协调，与美国无关。消息人士同时表示，如果美国继续存在伊朗方面所称的“违规行为”，即便伊朗与阿曼达成协议，霍尔木兹海峡也不会恢复开放，其重新开放仍取决于美国改变相关行为并纠正其“违规行为”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3145320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：仍然担心美国或某些地区方的阻挠行为可能会延长或干扰谈判进程。",
           "url": "https://flash.jin10.com/detail/20260805022308055800",
           "source": "金十数据",
@@ -185,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "伊朗国家电视台：伊朗和阿曼针对霍尔木兹海峡的谈判与海峡立即重新开放无关。 海峡重新开放取决于美国改变其行为。",
+          "url": "https://wallstreetcn.com/livenews/3145296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美民主党议员致信赫格塞思 质疑五角大楼对伊朗战争的伤亡统计",
@@ -278,7 +300,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
@@ -423,6 +445,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "美股史上最大解禁冲击来袭！SpaceX即将迎来真正考验",
+          "url": "https://www.cls.cn/detail/2446161",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
           "url": "https://flash.jin10.com/detail/20260805015406320800",
           "source": "金十数据",
@@ -492,7 +525,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -515,8 +548,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时25分]"
         },
         {
           "title": "特朗普政府关税退税达1000亿美元",
@@ -572,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-05）",
+          "url": "https://flash.jin10.com/detail/20260805181255161800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国总统特朗普称，美国移民与海关执法局（ICE）7月逮捕约51000名非法外籍人员，打破历史最高纪录，日均逮捕1645人。 此前6月逮捕人数约43000人，创下当时的历史峰值，这意味着移民与海关执法局已连续两个月执法力度达到历史高位。",
@@ -668,7 +712,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -679,7 +723,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -698,7 +742,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
@@ -751,6 +795,17 @@
           "time_info": "[00时07分 ~ 06时04分]"
         },
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "DeepSeek重启融资 投前估值5000亿元",
           "url": "https://www.toutiao.com/trending/7670354038151450166/",
           "source": "今日头条",
@@ -771,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
@@ -808,8 +874,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时25分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -940,8 +1006,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 18时25分]"
         }
       ]
     }
